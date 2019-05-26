@@ -4,7 +4,6 @@ module tensorflow
   include("tensor_shape_pb.jl")
   include("types_pb.jl")
   include("tensor_pb.jl")
-  include("summary_pb.jl")
   include("attr_value_pb.jl")
   include("node_def_pb.jl")
   include("op_def_pb.jl")
